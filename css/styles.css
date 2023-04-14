@@ -599,6 +599,7 @@ body {
 
 .portfolio-list {
     width: calc((100% - 48px) / 3);
+    border: 0.5px solid var(--brand-color-cloud);
 }
 
 
