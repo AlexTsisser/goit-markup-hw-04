@@ -466,6 +466,12 @@ body {
     fill: currentColor;
 }
 
+/* .clients-icon:hover,
+.clients-icon:focus {
+    fill: #404BBF;
+} */
+
+
 /* Footer */
 .footer {
     padding: 100px 0;
@@ -481,7 +487,7 @@ body {
 
 
 .social-box-footer {
-    margin-right: 692px;
+    /* margin-right: 692px; */
 }
 
 .social-media {
